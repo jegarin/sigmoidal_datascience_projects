@@ -7,7 +7,7 @@
 # Rodrigo Jikal
 <sub>*Data Science Student* at Sigmoidalr</sub>
 
-Aspiring to learn Data Science with Python in order to better understand data around my work. I believe that with the hability to analyze data and explain the insights with a great storytelling. Therefore my colleagues can broad their vision about how our business works.  
+Aspiring to learn Data Science with Python in order to better understand data around my work. I believe that with the hability to analyze data and explain the insights with a great storytelling can expand their vision about how our business works.  
 
 **Background in:** Javascript
 
